@@ -1,2 +1,0 @@
-Java files for singly Linked List
-I have hardcoded the insertion and deletion operations, instead of giving the user choice feature. The main aim of this repository is the core algorithm, not user interaction. If needed, switch case or other similar structures can be used to let the user decide what methods to call at what time. Also, there is only singly LL here. Implementing doubly LL and circular LL is very much similar once you understand singly LL. Maybe later I will add them too. Feel free to ask me for them in case I don't.
